@@ -1,4 +1,3 @@
-
 score=int(input("What is the score?"))
 if score>=50 and score<=100:
     print(f"You have passed with {score}")
@@ -15,5 +14,5 @@ else:
     passou="Not valid value"
     print(passou)
 
-
+  
 
